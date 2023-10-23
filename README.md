@@ -5,4 +5,4 @@
 <P>lalu screenshot hasil eksekusi program dan flowchart </P>
 <P>simpan project ke repository praktikum 3 </P>
 
-![gambar](Screenshot14.png)
+![gambar](ss.png)
